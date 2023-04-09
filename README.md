@@ -1,0 +1,1 @@
+# Exampleone consideration of OOP
